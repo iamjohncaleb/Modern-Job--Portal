@@ -1,29 +1,34 @@
   <h3 align="center">Modern Job Portal </h3>
 <div>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/-Stripe_JS-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe_JS" />
-<img src="https://img.shields.io/badge/-Autoprefixer-FF7139?style=for-the-badge&logo=autoprefixer&logoColor=white" alt="Autoprefixer" />
-<img src="https://img.shields.io/badge/-BcryptJS-4E9A06?style=for-the-badge&logo=lock&logoColor=white" alt="BcryptJS" />
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/-Joi-0052CC?style=for-the-badge&logo=joistack&logoColor=white" alt="Joi" />
-<img src="https://img.shields.io/badge/-JS_Cookie-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS_Cookie" />
-<img src="https://img.shields.io/badge/-JsonWebToken-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JsonWebToken" />
-<img src="https://img.shields.io/badge/-Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
-<img src="https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next" />
-<img src="https://img.shields.io/badge/-PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" alt="PostCSS" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/-React_DOM-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React_DOM" />
-<img src="https://img.shields.io/badge/-React_Spinners-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React_Spinners" />
-<img src="https://img.shields.io/badge/-React_Toastify-FF7E41?style=for-the-badge&logo=react&logoColor=white" alt="React_Toastify" />
-<img src="https://img.shields.io/badge/-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-
+<p align="center">
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+  <a href="https://clerk.dev/"><img src="https://img.shields.io/badge/-Clerk/Next.js-5120DB?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk/Next.js" /></a>
+  <a href="https://www.radix-ui.com/docs/primitives/components/dialog"><img src="https://img.shields.io/badge/-Radix--UI/Dialog-8B5CF6?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix-UI/Dialog" /></a>
+  <a href="https://www.radix-ui.com/docs/primitives/components/label"><img src="https://img.shields.io/badge/-Radix--UI/Label-8B5CF6?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix-UI/Label" /></a>
+  <a href="https://www.radix-ui.com/docs/primitives/components/menubar"><img src="https://img.shields.io/badge/-Radix--UI/Menubar-8B5CF6?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix-UI/Menubar" /></a>
+  <a href="https://www.radix-ui.com/docs/primitives/components/scroll-area"><img src="https://img.shields.io/badge/-Radix--UI/ScrollArea-8B5CF6?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix-UI/ScrollArea" /></a>
+  <a href="https://www.radix-ui.com/docs/primitives/components/slot"><img src="https://img.shields.io/badge/-Radix--UI/Slot-8B5CF6?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix-UI/Slot" /></a>
+  <a href="https://www.radix-ui.com/docs/primitives/components/tabs"><img src="https://img.shields.io/badge/-Radix--UI/Tabs-8B5CF6?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix-UI/Tabs" /></a>
+  <a href="https://www.radix-ui.com/docs/primitives/components/toast"><img src="https://img.shields.io/badge/-Radix--UI/Toast-8B5CF6?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix-UI/Toast" /></a>
+  <a href="https://stripe.com/docs/js"><img src="https://img.shields.io/badge/-Stripe/JS-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe/JS" /></a>
+  <a href="https://supabase.com/docs"><img src="https://img.shields.io/badge/-Supabase/JS-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase/JS" /></a>
+  <a href="https://mongoosejs.com/"><img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" /></a>
+  <a href="https://github.com/pacocoursey/next-themes"><img src="https://img.shields.io/badge/-NextThemes-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next-Themes" /></a>
+  <a href="https://github.com/sindresorhus/query-string"><img src="https://img.shields.io/badge/-QueryString-FCD116?style=for-the-badge&logo=javascript&logoColor=black" alt="Query-String" /></a>
+  <a href="https://reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/-React-D0D0D0?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/-ReactDOM-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactDOM" /></a>
+  <a href="https://stripe.com"><img src="https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /></a>
+  <a href="https://github.com/dcastil/tailwind-merge"><img src="https://img.shields.io/badge/-TailwindMerge-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind-Merge" /></a>
+  <a href="https://tailwindcss.com/docs/animation"><img src="https://img.shields.io/badge/-TailwindCSS/Animate-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS/Animate" /></a>
+  <a href="https://vaul.dev/"><img src="https://img.shields.io/badge/-Vaul-2E7D32?style=for-the-badge&logo=vault&logoColor=white" alt="Vaul" /></a>
+</p>
 
 </div>
 
 </div>
 
-This is a fully-featured e-commerce website built using **Next.js**, offering a fast, responsive, and user-friendly platform for buying and selling products online. The project is designed to demonstrate modern web development practices, scalability, and performance optimization.
+This is a fully-featured Job Portal website built using **Next.js**, offering a fast, responsive, and user-friendly platform for Applying for jobs Online. The project is designed to demonstrate modern web development practices, scalability, and performance optimization.
 
 ---
 
